@@ -1,2 +1,2 @@
-# Cuantizaci-n-de-medida-para-aprendizaje-autom-tico-
+# Cuantización de medida para aprendizaje automático
 Algoritmos tipo k-means 
