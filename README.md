@@ -1,6 +1,6 @@
 # Cuantización de medida para aprendizaje automático
 
-Resumen
+### Resumen
 
 El Aprendizaje Automático (Machine Learning) requiere el manejo eficiente de grandes volúmenes de datos, lo que plantea desafíos computacionales significativos. Una técnica clave para abordar estos desafíos es la cuantización de medidas, cuyo objetivo es reemplazar una medida de probabilidad $\mu$ por una aproximación discreta, con soporte finito y más pequeño, preservando la medida de la manera más fiel posible.
 
@@ -10,7 +10,7 @@ Además, este trabajo introduce y explora un nuevo concepto: la Cuantización Co
 
 Finalmente, los resultados muestran que la cuantización bajo este enfoque conjunto no solo proporciona aproximaciones eficientes de las medidas individuales, sino que también da lugar a un método efectivo para aproximar el baricentro de Wasserstein de un conjunto de medidas. Esta aproximación cuantizada simplifica significativamente el cálculo del baricentro, ofreciendo una herramienta computacionalmente más tratable para tareas centrales del Aprendizaje Automático que dependen de la agregación óptima de distribuciones de probabilidad [9–13].
 
-Abstract
+### Abstract
 
 Machine Learning requires the efficient handling of large volumes of data, which poses significant computational challenges. A key technique to address these challenges is measure quantization, which aims to replace a probability measure $\mu$ with a discrete approximation supported on a finite and smaller set, while preserving the measure as accurately as possible.
 
@@ -20,7 +20,7 @@ Moreover, this work introduces and explores a new concept: Joint Quantization of
 
 Finally, the results show that quantization under this joint framework not only provides efficient approximations of individual measures, but also yields an effective method for approximating the Wasserstein barycenter of a set of measures. This quantized approximation significantly simplifies barycenter computation, offering a more tractable computational tool for core Machine Learning tasks that rely on the optimal aggregation of probability distributions [9–13].
 
-References
+### Referencias / References
 
 [1] C. Villani. Optimal Transport: Old and New. Springer, 2009.
 
